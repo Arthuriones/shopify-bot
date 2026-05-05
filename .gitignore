@@ -4,3 +4,5 @@ dist/
 .next/
 logs/
 *.log
+*.env.railway
+*.env.vercel
