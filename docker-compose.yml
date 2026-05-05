@@ -1,0 +1,9 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    restart: unless-stopped
+    depends_on: []
+    volumes:
+      - ./agents:/app/agents
+      - ./config:/app/config

@@ -1,0 +1,7 @@
+{
+  "agents": {
+    "produtos": "Gerencia produtos da loja: criar, editar, listar, deletar, preço, estoque, ativar/desativar produtos",
+    "theme": "Edita o tema da loja: layout, sections, templates, CSS, Liquid, cores, banners, design visual"
+  },
+  "default": "produtos"
+}
