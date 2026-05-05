@@ -1,7 +1,13 @@
 import { createClient } from "@supabase/supabase-js";
+import WebSocketNode from "ws";
 import { env } from "../env.js";
 
-export const supabase = createClient(env.SUPABASE_URL, env.SUPABASE_SERVICE_ROLE_KEY);
+export const supabase = createClient(env.SUPABASE_URL, env.SUPABASE_SERVICE_ROLE_KEY, {
+  realtime: {
+    // @ts-expect-error ws is compatible with WebSocket for Supabase
+    transport: WebSocketNode,
+  },
+});
 
 export async function healthCheck(): Promise<boolean> {
   try {
