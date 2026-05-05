@@ -1,0 +1,54 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/chunks/app/_not-found/page-4b9eb8aab41bf6df.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/css/cd77be70239a608b.css",
+      "static/chunks/app/layout-0c39eab564e7be62.js"
+    ],
+    "/settings/page": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/chunks/app/settings/page-ea8ab20a1e562b23.js"
+    ],
+    "/conversations/page": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/chunks/app/conversations/page-8d03bf18739a303c.js"
+    ],
+    "/agents/page": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/chunks/app/agents/page-dadaadd2c37c2e00.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/chunks/app/page-007c52a832d32c31.js"
+    ],
+    "/metrics/page": [
+      "static/chunks/webpack-8658fdbc42bfbbae.js",
+      "static/chunks/fd9d1056-9f91b5e418130764.js",
+      "static/chunks/117-6d3152f80147ba9e.js",
+      "static/chunks/main-app-780f08ad371c1170.js",
+      "static/chunks/app/metrics/page-b5685bd5c5f2988c.js"
+    ]
+  }
+}
